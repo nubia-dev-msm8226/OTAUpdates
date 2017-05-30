@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>Freerom</RomName> <!-- Название прошивки -->
+  <RomName>Mokee</RomName> <!-- Название прошивки -->
   <VersionName>update</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20160203</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
   <DirectUrl>https://dl.dropbox.com/s/9bhq8krjtp799lj/freerom.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
   <HttpUrl>https://dl.dropbox.com/s/9bhq8krjtp799lj/freerom.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
-  <Android>4.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
+  <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>89daf54aacc60edf85a1c87b8ef4ed79</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">231860</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Woxhan</Developer> <!-- Ник, имя разработчика'ов -->
