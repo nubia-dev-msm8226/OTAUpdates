@@ -3,8 +3,8 @@
   <RomName>Mokee</RomName> <!-- Название прошивки -->
   <VersionName>update</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170530</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/blob/stable/OTA-MK71.2-NX404H-201705291000-201705301208-NIGHTLY(1).ziphttps://github.com/nubia-dev-msm8226/OTAUpdates/blob/stable/OTA-MK71.2-NX404H-201705291000-201705301208-NIGHTLY(1).zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://dl.dropbox.com/s/9bhq8krjtp799lj/freerom.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://www.dropbox.com/s/ow0h4f5pn74a2cy/OTA-MK71.2-NX404H-201705291000-201705301208-NIGHTLY%281%29.zip?dl=1</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://www.dropbox.com/s/ow0h4f5pn74a2cy/OTA-MK71.2-NX404H-201705291000-201705301208-NIGHTLY%281%29.zip?dl=0</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>f9f932ab1818b417894db2b49b778dcd</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">65000</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
