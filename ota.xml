@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MK71.2-NX404H</RomName> <!-- Название прошивки -->
-  <VersionName>MK71.2-NX404H</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionName>MK71.2-NX404H-201706011431</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">201706011431</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
   <DirectUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/files/1045839/OTA-MK71.2-NX404H-201705311512-201706011431-NIGHTLY.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
   <HttpUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/files/1045839/OTA-MK71.2-NX404H-201705311512-201706011431-NIGHTLY.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
