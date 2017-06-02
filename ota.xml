@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MK71.2-NX404H</RomName> <!-- Название прошивки -->
-  <VersionName>MK71.2-NX404H-201706011431</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">201706011431</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/files/1045839/OTA-MK71.2-NX404H-201705311512-201706011431-NIGHTLY.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/files/1045839/OTA-MK71.2-NX404H-201705311512-201706011431-NIGHTLY.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <VersionName>MK71.2-NX404H-201705291000</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">201705291000</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/release/download/29.05.2017/OTA-MK71.2-NX404H-201705281221-201705291000-NIGHTLY.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/release/download/29.05.2017/OTA-MK71.2-NX404H-201705281221-201705291000-NIGHTLY.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>7.1.2</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>1BBD51648981DFD691D728169C9BE7F7</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">3337939</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <CheckMD5>8a724cfb1d2fd5e6231099203809c3bd</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">5147521</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Sattarvoybek</Developer> <!-- Ник, имя разработчика'ов -->
  <Website nil="true" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
 <DonateURL>https://dropbox.com</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
-<Changelog>### Изменения версии Freerom 2.6
-* Новый логотип загрузки
+<Changelog>### Изменения версии MK71.2-NX404H-201705291000
+* Новая Bootanimation под 320D
 * Включены обновления по воздуху</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
