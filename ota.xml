@@ -10,7 +10,7 @@
   <FileSize type="integer">5147521</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Sattarvoybek</Developer> <!-- Ник, имя разработчика'ов -->
  <Website nil="true" /> <!-- Web сайт прошивки или чего нибудь другого, на усмотрение -->
-<DonateURL>https://dropbox.com</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
+<DonateURL>https://github.com/nubia-dev-msm8226</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
 <Changelog>### Изменения версии MK71.2-NX404H-201705291000
 * Новая Bootanimation под 320D
 * Включены обновления по воздуху</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
