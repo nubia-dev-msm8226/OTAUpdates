@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MK71.2-NX404H</RomName>
-  <VersionName>MK71.2-NX404H-201705291000</VersionName>
+  <VersionName>201705291000</VersionName>
   <VersionNumber type="integer">201705291000</VersionNumber>
   <DirectUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/release/download/29.05.2017/OTA-MK71.2-NX404H-201705281221-201705291000-NIGHTLY.zip</DirectUrl>
   <HttpUrl>https://github.com/nubia-dev-msm8226/OTAUpdates/release/download/29.05.2017/OTA-MK71.2-NX404H-201705281221-201705291000-NIGHTLY.zip</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>8a724cfb1d2fd5e6231099203809c3bd</CheckMD5>
+  <CheckMD5>f6f0268320a9179572ff3119483c1f7c</CheckMD5>
   <FileSize type="integer">5147521</FileSize>
   <Developer>Sattarvoybek</Developer>
  <Website nil="true" />
